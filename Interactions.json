@@ -1,0 +1,14 @@
+[
+  {"Interaction1" : [{
+    "Reference" : [ {"ECadherin_phenotype" : ["ECadherin+"]} , {"Pancytokeratin_phenotype" : ["Pancytokeratin+"]}],
+    "Non-Reference" : [{"CD8_phenotype" : ["CD8+"], "CD3_phenotype" : ["CD3+"]} , {"CD4_phenotype" : ["CD4+"], "CD3_phenotype" : ["CD3+"]} ]
+  }]},
+  {"Interaction2" : [{
+    "Reference" : [ {"ECadherin_phenotype" : ["ECadherin+"]} , {"Pancytokeratin_phenotype" : ["Pancytokeratin+"]}],
+    "Non-Reference" : [{"CD8_phenotype" : ["CD8+"], "CD3_phenotype" : ["CD3+"]}]
+  }]},
+  {"Interaction3" : [{
+    "Reference" : [ {"ECadherin_phenotype" : ["ECadherin+"]} , {"Pancytokeratin_phenotype" : ["Pancytokeratin+"]}],
+    "Non-Reference" : [{"CD4_phenotype" : ["CD4+"], "CD3_phenotype" : ["CD3+"]}]
+  }]}
+]

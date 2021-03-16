@@ -1,0 +1,12 @@
+CODE_LOCATION: "/Users/morganoneka/Box/My Stuff/Gcross/"
+DATA_DIR: "/Users/morganoneka/Box/Collab w Jad/Second Run/Output/Gcross/"
+INPUT_DIR: "/Users/morganoneka/Box/Collab w Jad/Second Run/Output/merged_data/cleaner/"
+
+XPOS: "Cell.X.Position"
+YPOS: "Cell.Y.Position"
+RADIUS_MAX: 300
+SEP: "\t"
+JSON_LOCATION: "/Users/morganoneka/Box/Collab w Jad/Second Run/Interactions.json"
+FILETYPE: "txt"
+VERBOSE: TRUE
+RADII: "60,120,200"
